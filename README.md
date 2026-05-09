@@ -1,4 +1,4 @@
-# MPFormer
+# MPFormer: Multimodal Prior-Folding Transformer for Efficient Underwater Image Enhancement
 Project README
 
 Requirements
